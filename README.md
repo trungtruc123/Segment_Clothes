@@ -4,6 +4,9 @@ This is project help clothes segmentation and used algorithm remove noise and an
 
 🎁 This repository use algorithm help remove noise and anti-aliasing to improve quality
 
+# Demo in huggingface
+You could test demo in huggingface: https://huggingface.co/spaces/trungtruc/segment_clothes
+
 ## 💬 Where to ask questions
 Please use our dedicated channels for questions and discussion. Help is much more valuable if it's shared publicly so that more people can benefit from it.
 
@@ -37,7 +40,8 @@ Please use our dedicated channels for questions and discussion. Help is much mor
 
 # Demo interface with gradio
 - Run `python gradio_seg.py`
-- Navigate to local or public url provided by app on successfull execution. 
+- Navigate to local or public url provided by app on successfull execution.
+
 
 # Output samples
 ![Sample 000](assets/demo_seg.jpg)
