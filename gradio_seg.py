@@ -5,7 +5,7 @@ import numpy as np
 import os
 
 device = 'cpu'
-# test git
+# test gitpush
 
 def algorithm_improve_seg(image, mode_expansion, mode_smoothing, factor_kernel: int = 5, smoothing: bool = True,
                           factor_smooth: int = 5):
